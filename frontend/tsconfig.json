@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", /*Direcionar onde estarao os arquivos*/
     "target": "es5",
     "lib": [
       "dom",
